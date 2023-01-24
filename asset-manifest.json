@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/world-clock/static/css/main.31d6cfe0.css",
-    "main.js": "/world-clock/static/js/main.852d4801.js",
+    "main.js": "/world-clock/static/js/main.c841c665.js",
     "static/js/787.c4a032c6.chunk.js": "/world-clock/static/js/787.c4a032c6.chunk.js",
     "index.html": "/world-clock/index.html",
-    "main.852d4801.js.map": "/world-clock/static/js/main.852d4801.js.map",
+    "main.c841c665.js.map": "/world-clock/static/js/main.c841c665.js.map",
     "787.c4a032c6.chunk.js.map": "/world-clock/static/js/787.c4a032c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.852d4801.js"
+    "static/js/main.c841c665.js"
   ]
 }
